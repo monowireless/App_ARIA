@@ -1,0 +1,6 @@
+# ignore file
+*.d
+*.bin
+*.o
+objs*/
+*/build/builderr.log

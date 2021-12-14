@@ -1,6 +1,6 @@
-# App_ARIA
+# App_PAL
 
-App_ARIA is standard application for TWELITE ARIA, which is wireless tag based system.
+App_PAL is standard application for TWELITE PAL, which is wireless tag based system.
 
 
 
